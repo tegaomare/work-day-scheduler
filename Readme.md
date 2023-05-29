@@ -1,4 +1,4 @@
-<img src="./assets/images/code-quiz.PNG" alt="code_Quiz page picture" >
+<img src="./assets/images/work-day-schedular.PNG" alt="work-day-schedular screenshot" >
 
 ## Description
 
