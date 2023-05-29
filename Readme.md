@@ -14,7 +14,9 @@ https://tegaomare.github.io/Code-Qiuz/
 
 ## Usage Instructions
 
-AS A User you will take a timed quiz on JavaScript fundamentals, that stores high scores, so that you can store your progress and compared to your peers.
+AS AN employee with a busy schedule
+you WANT to add important events to a daily planner
+SO THAT you can manage your time effectively
 
 ### Specifications
 
