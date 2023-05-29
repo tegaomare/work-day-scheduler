@@ -10,7 +10,7 @@ N/A
 
 ## App link
 
-https://tegaomare.github.io/Code-Qiuz/
+https://tegaomare.github.io/work-day-scheduler/
 
 ## Usage Instructions
 
