@@ -2,7 +2,7 @@
 
 ## Description
 
-A timed coding quiz with multiple-choice questions.
+A simple calendar application that allows a user to save events for each hour of the day by.
 
 ## Installation
 
@@ -18,12 +18,11 @@ AS A User you will take a timed quiz on JavaScript fundamentals, that stores hig
 
 ### Specifications
 
-This app runs in the browser and feature dynamically updated HTML and CSS powered by JavaScript.
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Credits
 
-branchwag/
-vlexaega/
+https://api.jquery.com
 www.w3schools.com
 
 ## License
